@@ -388,4 +388,3 @@ Watch Backlog.md in action:
 
 Backlog.md is released under the **MIT License**: do anything, just give credit. See [LICENSE](LICENSE).
 
-0x444f39b28d5245d9a081d0807b9d4ffcc31c2f2c
